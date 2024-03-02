@@ -18,4 +18,6 @@ Wander through my repositories to graze upon more of my inventive creations.
 
 🌬️ My Stats Swirl
 
+![Ragekow's GitHub stats](https://github-readme-stats.vercel.app/api?username=ragekow&show_icons=true&theme=radical)
+
 Thank you for landing in my field! Whether you're here to witness the spectacle, share in the laughter, or collaborate on a project that could use a spin, I'm all ears (and udders). Let's make the digital world a more whimsical place, one twirl at a time.
