@@ -1,7 +1,7 @@
 
 ## 🌬️ My Stats Swirl
 
-![Ragekow's GitHub stats](https://github-readme-stats.vercel.app/api?username=ragekow&show_icons=true&theme=radical)
+![Ragekow's GitHub stats](https://github-readme-stats.vercel.app/api?username=ragekow&show_icons=true&theme=radical) 
 
 I'm starting my github profile with 12 generic projects to showcase my abilities.
 
