@@ -3,7 +3,7 @@
 
 ![Ragekow's GitHub stats](https://github-readme-stats.vercel.app/api?username=ragekow&show_icons=true&theme=radical)
 
-Certainly! Here are 12 project ideas with generic names and a basic 3-point outline for each one:
+I'm starting my github profile with 12 generic projects to showcase my abilities.
 
 1. **Portfolio Website**
    - **Description**: Create a personal portfolio website to showcase your work and skills.
